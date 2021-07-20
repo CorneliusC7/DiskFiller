@@ -1,0 +1,10 @@
+E:\Repos\DiskFiller\DiskFiller\bin\Debug\DiskFiller.exe.config
+E:\Repos\DiskFiller\DiskFiller\bin\Debug\DiskFiller.exe
+E:\Repos\DiskFiller\DiskFiller\bin\Debug\DiskFiller.pdb
+E:\Repos\DiskFiller\DiskFiller\obj\Debug\DiskFiller.csproj.AssemblyReference.cache
+E:\Repos\DiskFiller\DiskFiller\obj\Debug\DiskFiller.Form1.resources
+E:\Repos\DiskFiller\DiskFiller\obj\Debug\DiskFiller.Properties.Resources.resources
+E:\Repos\DiskFiller\DiskFiller\obj\Debug\DiskFiller.csproj.GenerateResource.cache
+E:\Repos\DiskFiller\DiskFiller\obj\Debug\DiskFiller.csproj.CoreCompileInputs.cache
+E:\Repos\DiskFiller\DiskFiller\obj\Debug\DiskFiller.exe
+E:\Repos\DiskFiller\DiskFiller\obj\Debug\DiskFiller.pdb
