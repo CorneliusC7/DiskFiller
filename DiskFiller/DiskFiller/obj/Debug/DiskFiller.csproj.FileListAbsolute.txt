@@ -1,0 +1,20 @@
+E:\Repos\DiskFiller\DiskFiller\bin\Debug\DiskFiller.exe.config
+E:\Repos\DiskFiller\DiskFiller\bin\Debug\DiskFiller.exe
+E:\Repos\DiskFiller\DiskFiller\bin\Debug\DiskFiller.pdb
+E:\Repos\DiskFiller\DiskFiller\obj\Debug\DiskFiller.csproj.AssemblyReference.cache
+E:\Repos\DiskFiller\DiskFiller\obj\Debug\DiskFiller.Form1.resources
+E:\Repos\DiskFiller\DiskFiller\obj\Debug\DiskFiller.Properties.Resources.resources
+E:\Repos\DiskFiller\DiskFiller\obj\Debug\DiskFiller.csproj.GenerateResource.cache
+E:\Repos\DiskFiller\DiskFiller\obj\Debug\DiskFiller.csproj.CoreCompileInputs.cache
+E:\Repos\DiskFiller\DiskFiller\obj\Debug\DiskFiller.exe
+E:\Repos\DiskFiller\DiskFiller\obj\Debug\DiskFiller.pdb
+D:\All Folder i made\Coding\DFv1.7\DiskFiller\DiskFiller\bin\Debug\DiskFiller.exe.config
+D:\All Folder i made\Coding\DFv1.7\DiskFiller\DiskFiller\bin\Debug\DiskFiller.exe
+D:\All Folder i made\Coding\DFv1.7\DiskFiller\DiskFiller\bin\Debug\DiskFiller.pdb
+D:\All Folder i made\Coding\DFv1.7\DiskFiller\DiskFiller\obj\Debug\DiskFiller.csproj.AssemblyReference.cache
+D:\All Folder i made\Coding\DFv1.7\DiskFiller\DiskFiller\obj\Debug\DiskFiller.Form1.resources
+D:\All Folder i made\Coding\DFv1.7\DiskFiller\DiskFiller\obj\Debug\DiskFiller.Properties.Resources.resources
+D:\All Folder i made\Coding\DFv1.7\DiskFiller\DiskFiller\obj\Debug\DiskFiller.csproj.GenerateResource.cache
+D:\All Folder i made\Coding\DFv1.7\DiskFiller\DiskFiller\obj\Debug\DiskFiller.csproj.CoreCompileInputs.cache
+D:\All Folder i made\Coding\DFv1.7\DiskFiller\DiskFiller\obj\Debug\DiskFiller.exe
+D:\All Folder i made\Coding\DFv1.7\DiskFiller\DiskFiller\obj\Debug\DiskFiller.pdb
